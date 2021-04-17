@@ -1,2 +1,4 @@
 # Ejercicios-Python-B-sico
-Ejercicios Básicos de Python
+En este repositorio se almacenarán ejercicios básicos de python
+
+
